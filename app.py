@@ -21,7 +21,7 @@ st.markdown(
         .banner-img { width: 100%; max-height: 250px; object-fit: cover; border-radius: 15px; }
     </style>
     <div class="banner-container">
-        <img src="https://img.freepik.com/free-photo/view-travel-items-assortment-still-life_23-2149617645.jpg?t=st=1740675424~exp=1740679024~hmac=e186750047eacf608efc65a94d1c9abd5d9c6a39c046f2db926d56fc3e11cdc9&w=1380" class="banner-img">
+        <img src="https://thumbs.dreamstime.com/z/travel-planning-explorer-trip-around-world-tracing-route-map-adventure-concept-66845809.jpg" class="banner-img">
     </div>
     """,
     unsafe_allow_html=True
@@ -114,7 +114,7 @@ st.markdown(
         }
     </style>
     <div class="footer">
-        Created by Yashwanth 🚀
+        Created by Neelima 🚀
     </div>
     """,
     unsafe_allow_html=True
