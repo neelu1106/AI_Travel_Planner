@@ -28,7 +28,7 @@ st.markdown(
 )
 
 # ✅ Centered Title
-st.markdown("<h1 style='text-align: center;'>🗺️✈︎ Destination Dynamo AI⁀જ✈︎</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>🌍✈️ Smart Travel AI 🗺️🚀</h1>", unsafe_allow_html=True)
 
 # ✅ UI for User Input
 col1, col2 = st.columns(2)
